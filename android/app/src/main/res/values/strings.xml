@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Fuga Neon</string>
+    <string name="title_activity_main">Fuga Neon</string>
+    <string name="package_name">com.dionathanmartins.fuganeon</string>
+    <string name="custom_url_scheme">com.dionathanmartins.fuganeon</string>
+</resources>
